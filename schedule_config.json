@@ -1,0 +1,52 @@
+{
+  "blocked_playlist_ids": [
+    "LM"
+  ],
+  "scenarios": {
+    "tuesday_prayer": {
+      "name": "Tuesday Prayer",
+      "url": "https://music.youtube.com/playlist?list=PLdzFGqur9FYG8XYMCyGw46UB4ZHQ7lRRr",
+      "days": [
+        "tuesday"
+      ],
+      "start_time": "08:00",
+      "end_time": "09:55"
+    },
+    "friday_celebrate_recovery": {
+      "name": "Celebrate Recovery",
+      "url": "https://music.youtube.com/playlist?list=PLdzFGqur9FYEBRNHS10nJ1JtJ4uR2DQSr",
+      "days": [
+        "friday"
+      ],
+      "start_time": "17:30",
+      "end_time": "18:30"
+    },
+    "saturday_5pm_pre_service": {
+      "name": "Saturday Pre-Service Music",
+      "url": "https://music.youtube.com/playlist?list=PLdzFGqur9FYHIGL8mHmqukkZ1wK7JDswH",
+      "days": [
+        "saturday"
+      ],
+      "start_time": "16:30",
+      "end_time": "16:55"
+    },
+    "sunday_9am_pre_service": {
+      "name": "Sunday Pre-Service Music",
+      "url": "https://music.youtube.com/playlist?list=PLdzFGqur9FYHIGL8mHmqukkZ1wK7JDswH",
+      "days": [
+        "sunday"
+      ],
+      "start_time": "08:45",
+      "end_time": "08:55"
+    },
+    "sunday_11am_pre_service": {
+      "name": "Sunday Pre-Service Music",
+      "url": "https://music.youtube.com/playlist?list=PLdzFGqur9FYHIGL8mHmqukkZ1wK7JDswH",
+      "days": [
+        "sunday"
+      ],
+      "start_time": "10:30",
+      "end_time": "10:55"
+    }
+  }
+}
