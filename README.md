@@ -1,0 +1,7 @@
+REQUIREMENTS
+
+greenlet==3.2.5
+playwright==1.60.0
+pyee==13.0.1
+schedule==1.2.2
+typing_extensions==4.16.0
